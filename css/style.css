@@ -1,0 +1,201 @@
+body{
+    padding-left: 80px;
+padding-right: 0px;
+padding-top: 20px;
+background-color: whitesmoke;
+}
+
+header{
+
+    display: flex;
+    color: whitesmoke;
+
+}
+#subdiv1 {
+display: flex;
+
+}
+#subdiv1 div img{
+margin-top: 10px;
+
+}
+
+#artical1{
+display: inline-block;
+color: black;
+font-weight: bolder;
+
+}
+
+#listid ul {
+float: right;
+    margin-left: 800px;
+    margin-top: -35px;
+}
+
+#listid ul li {
+
+    display: inline-block;
+    margin: -1px;
+}
+
+#tem {
+margin-left: 10px;
+}
+
+.hr{
+   
+background-image: url(../imgaes/hr-img.png);
+ /* background-size: cover; */
+background-repeat:repeat;
+width:85%;
+height: 30px;
+}
+
+.info{
+    display: flex;
+}
+.first  b  {
+font-size: 60px;
+}
+.first{
+    display: flex;
+}
+
+.subone {
+    margin-left:50%;
+    margin-top: 50px;
+    /* float: right; */
+    display: flex;
+
+}
+.subone p {
+float: right;    
+color: gray;
+}
+.subone img{
+    height: 12px;
+    margin-top:20px ;
+}
+
+
+.second{
+
+    position: absolute;
+    left: 8%;
+    top: 40%;
+}
+.second img {
+    width: 1050px;
+}
+.third p {
+    justify-content: center;
+    width: 86%;
+    text-indent: 13px;
+    font-weight: 500 ;
+    font-size: 20px;
+
+
+
+}
+
+.four{
+    /* display:flex; */
+background-image:url(../imgaes/list-bg.png);
+background-repeat: no-repeat;
+background-size: cover;
+width: 70%;
+height: 300px;
+position: absolute;
+left: 150px;
+top: 1420px;
+}
+ 
+#firstlist{
+    display: flex;
+}
+#list11{
+list-style-type: none;
+margin-left: 100px;
+
+
+}
+#list11  li {
+
+padding-top: 20px;
+}
+
+
+#list12{
+    list-style-type: none;
+    margin-left: 300px;
+
+
+}
+
+#list12 li{
+    padding-top: 20px;
+
+
+}
+
+
+
+
+
+.hr1{
+   
+    background-image: url(../imgaes/hr-img.png);
+     /* background-size: cover; */
+    background-repeat:repeat;
+    width:85%;
+    height: 30px;
+    position: absolute;
+    top: 1750px;
+    }
+
+.fifth{
+position: absolute;
+top: 1800px;
+display: flex;
+}
+.fifth b {
+    font-weight: bolder;
+}
+.fifth p {
+    font-weight: normal;
+    font-size: 15px;
+    width: 70%;
+}
+.fifth img {
+    width: 100px;
+}
+.fifth button{
+    margin-top: 40px;
+    height: 30px;
+}
+
+footer{
+
+    position: absolute;
+    top: 1900px;
+    left: 400px;
+}
+
+
+footer img {
+position: absolute;
+top: 35px;
+left: 220px;
+
+}
+#ss{
+    margin-top: 1700px;
+    width: 90%;
+margin-left: 20px;
+
+}
+footer p {
+margin-top: 100px;
+
+}
